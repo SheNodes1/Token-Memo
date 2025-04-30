@@ -20,7 +20,8 @@ Each memo includes:
 
 SUI is a Layer 1 chain reimagined for speed, onboarding, and user experience—created by ex-Meta engineers. From zkLogin to 120K+ TPS, SUI might be the chain that actually makes crypto usable for the next billion people.
 
----
+[Made with 💜 by SheNodes](https://img.shields.io/badge/Made%20with-%F0%9F%92%9C%20by%20SheNodes-purple)
+
 
 📬 For more updates, follow [@SheNodes_ on X](https://twitter.com/SheNodes_)  
 🌐 Visit our community at [shenodes.eth](https://mirror.xyz/shenodes.eth)
